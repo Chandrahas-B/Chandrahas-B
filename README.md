@@ -3,7 +3,8 @@
 
 
 
-<img align="right" width="250" src= "https://github.com/Chandrahas-B/Chandrahas-B/assets/84665480/b71b8019-3121-46cc-bd0e-0ba940676ba8">
+
+<img align="right" width="250" src= "https://github.com/Chandrahas-B/Chandrahas-B/assets/84665480/b89e44dd-161f-4def-90aa-8d8ea4c1548c">
 
 
 - 💬 Ask me about **Deep Learning and Computer Vision**
