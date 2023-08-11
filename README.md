@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chandrahas B</h1>
-<h3 align="center">A passionate Machine Learning Enthusiast from India</h3>
+<h3 align="center">A passionate Machine Learning Enthusiast from India </h3> <br/><br/>
 
 
 
-<img align="right" width="200" src= "https://github.com/Chandrahas-B/Chandrahas-B/assets/84665480/b71b8019-3121-46cc-bd0e-0ba940676ba8">
+<img align="right" width="250" src= "https://github.com/Chandrahas-B/Chandrahas-B/assets/84665480/b71b8019-3121-46cc-bd0e-0ba940676ba8">
 
 
 - 💬 Ask me about **Deep Learning and Computer Vision**
