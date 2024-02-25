@@ -10,4 +10,4 @@
 - Data Engineering
 - Web Development
 - Automation
-- Containerization and Deployment with Docker and Kubernetes, AWS.
+- Containerization and Deployment with Docker, Kubernetes, and AWS
